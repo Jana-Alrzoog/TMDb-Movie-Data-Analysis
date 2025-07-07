@@ -1,6 +1,6 @@
 
 # 🎬 TMDb Movie Data Analysis
-
+ر![image](https://github.com/user-attachments/assets/c7e64cea-ebcf-472b-b744-47f8ae09fabd)
 <p align="center">
   <img src="![image](https://github.com/user-attachments/assets/c7e64cea-ebcf-472b-b744-47f8ae09fabd)
 " alt="TMDb Movie Data Banner" width="100%" />
