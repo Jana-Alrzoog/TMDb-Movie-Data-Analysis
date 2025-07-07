@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.gif" alt="Animated Wave Top" width="100%" />
+  <img src="https://github.com/andreasbm/readme/blob/master/assets/waves/wave1.gif?raw=true" alt="wave" width="100%" />
 </p>
 
 
