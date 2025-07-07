@@ -1,5 +1,6 @@
-<!-- Top Wave -->
-<img src="https://raw.githubusercontent.com/kognise/waves/master/public/top-wave.svg" alt="wave top" style="width:100%; margin-bottom:-5px;">
+<!-- Top Animated Wave -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.gif" alt="top wave" style="width:100%; height:auto;"/>
+
 
 # 🎬 TMDb Movie Data Analysis
 
