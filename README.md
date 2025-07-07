@@ -1,5 +1,6 @@
-<!-- Top Animated Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.gif" alt="top wave" style="width:100%; height:auto;"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave1.gif" alt="Animated Wave Top" width="100%" />
+</p>
 
 
 # 🎬 TMDb Movie Data Analysis
