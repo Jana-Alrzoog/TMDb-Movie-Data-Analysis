@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://github.com/andreasbm/readme/blob/master/assets/waves/wave1.gif?raw=true" alt="wave" width="100%" />
-</p>
-
 
 # 🎬 TMDb Movie Data Analysis
+
+![Uploading image.png…]()
 
 This project explores and analyzes a dataset of over 10,000 movies from The Movie Database (TMDb). It was completed as part of Udacity's Data Analyst Nanodegree program. The goal is to answer key questions related to movie trends, genres, and revenue using Python, pandas, and data visualization tools.
 
