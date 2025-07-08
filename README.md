@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c7e64cea-ebcf-472b-b744-47f8ae09fabd" alt="banner" width="30%">
+  ![image](https://github.com/user-attachments/assets/e80fc584-8894-451e-989d-30f7a31ef42d)
+
 </p>
 --
 This project explores and analyzes a dataset of over 10,000 movies from The Movie Database (TMDb). It was completed as part of Udacity's Data Analyst Nanodegree program. The goal is to answer key questions related to movie trends, genres, and revenue using Python, pandas, and data visualization tools.
