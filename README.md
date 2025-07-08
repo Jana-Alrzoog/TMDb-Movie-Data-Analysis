@@ -1,7 +1,8 @@
 # 🎬 TMDb Movie Data Analysis
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7e64cea-ebcf-472b-b744-47f8ae09fabd" alt="banner" width="30%">
+  <img src="https://github.com/user-attachments/assets/e80fc584-8894-451e-989d-30f7a31ef42d" alt="banner" width="30%">
+  
   ![image](https://github.com/user-attachments/assets/e80fc584-8894-451e-989d-30f7a31ef42d)
 
 </p>
