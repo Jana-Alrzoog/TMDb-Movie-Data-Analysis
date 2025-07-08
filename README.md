@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e80fc584-8894-451e-989d-30f7a31ef42d" alt="banner" width="30%">
   
-  ![image](https://github.com/user-attachments/assets/e80fc584-8894-451e-989d-30f7a31ef42d)
 
 </p>
 --
